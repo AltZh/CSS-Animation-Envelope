@@ -74,6 +74,14 @@ body, html {
     animation-delay: 450ms;
 }
 
+.delay-500 {
+    animation-delay: 500ms;
+}
+
+.delay-550 {
+    animation-delay: 550ms;
+}
+
 .delay-600 {
     animation-delay: 600ms;
 }
